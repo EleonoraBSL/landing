@@ -1,0 +1,17 @@
+.button{
+	background: black;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	border: solid;
+	border-radius: black;
+}
+.button2{
+	background: goldenrod;
+	color: whitesmoke;
+	border-radius: solid;
+	border-radius: 4px;
+	padding: 10px 15px;
+
+}
